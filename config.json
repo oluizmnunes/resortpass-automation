@@ -1,0 +1,6 @@
+{
+  "base_url": "https://www.resortpass.com/",
+  "browser": "chrome",
+  "implicit_wait": 3,
+  "default_timeout": 7
+}
