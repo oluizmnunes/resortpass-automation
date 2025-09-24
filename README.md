@@ -1,6 +1,6 @@
-# ResortPass Sample of Automation Framework for ResortPass
+# resortpass-automation
 
-This is a Python framework that tests ResortPass.com's search functionality.
+This is a Python framework that tests one of the most important ResortPass.com's functionality: search.
 
 ## Structure
 
